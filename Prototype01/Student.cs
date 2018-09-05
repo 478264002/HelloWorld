@@ -25,7 +25,7 @@ namespace Prototype01
         public string Name { get; set; }
         public void Study()
         {
-            Console.WriteLine("{0}在学习.net高级班公开课之设计模式特训", this.Name);
+            Console.WriteLine("{0}在学习.net 设计模式特训", this.Name);
         }
 
     }
